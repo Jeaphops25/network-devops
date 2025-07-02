@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1751484834,,"wq"
+|2,0,1751487287,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,47 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/index.jsp
-|4,48,2,0,1751484834,"~/index.jsp"
-'1  12  0  ~/index.jsp
-|4,49,12,0,1751484776,"~/index.jsp"
+'0  1  35  ~/README.md
+|4,48,1,35,1751487287,"~/README.md"
+'1  2  0  ~/index.jsp
+|4,49,2,0,1751484834,"~/index.jsp"
 '2  12  0  ~/index.jsp
 |4,50,12,0,1751484776,"~/index.jsp"
+'3  12  0  ~/index.jsp
+|4,51,12,0,1751484776,"~/index.jsp"
 
 # Jumplist (newest first):
+-'  1  35  ~/README.md
+|4,39,1,35,1751487287,"~/README.md"
+-'  2  0  ~/index.jsp
+|4,39,2,0,1751484834,"~/index.jsp"
 -'  2  0  ~/index.jsp
 |4,39,2,0,1751484834,"~/index.jsp"
 -'  12  0  ~/index.jsp
 |4,39,12,0,1751484787,"~/index.jsp"
+-'  12  0  ~/index.jsp
+|4,39,12,0,1751484787,"~/index.jsp"
+-'  12  0  ~/index.jsp
+|4,39,12,0,1751484776,"~/index.jsp"
 -'  12  0  ~/index.jsp
 |4,39,12,0,1751484776,"~/index.jsp"
 -'  1  0  ~/index.jsp
 |4,39,1,0,1751484771,"~/index.jsp"
 -'  1  0  ~/index.jsp
 |4,39,1,0,1751484771,"~/index.jsp"
+-'  1  0  ~/index.jsp
+|4,39,1,0,1751484771,"~/index.jsp"
+-'  1  0  ~/index.jsp
+|4,39,1,0,1751484771,"~/index.jsp"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1751487287	0
+	"	1	35
+	^	1	36
+	.	1	35
+	+	1	35
 
 > ~/index.jsp
 	*	1751484834	0
